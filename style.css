@@ -243,7 +243,7 @@ margin:auto;
 		background:red;
 	background-size:cover;
 	}
-	a.menu a{
+	.menu a{
 		display:none;
 	}
 	.logo{
@@ -276,7 +276,7 @@ margin:auto;
 	.progress-div p{
 		margin-bottom:100px;
 		font-size:20px;
-		padding-left:40px;
+		padding-left:20px;
 		text-align:justify;
 	}
 	.services-box{
