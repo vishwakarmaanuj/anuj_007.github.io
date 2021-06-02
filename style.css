@@ -279,6 +279,14 @@ margin:auto;
 		padding-left:40px;
 		text-align:justify;
 	}
+	.services-box{
+		flex-basis:100%;
+		margin-top:20px;
+		
+	}
+	.services-box img{
+		width:60%;
+	}
 	
 }
 
