@@ -252,6 +252,34 @@ margin:auto;
 	.text{
 		margin-left:50px;
 	}
+	.about-left-col{
+		flex-basis:100%;
+	}
+	.about-left-col img{
+		width:100%;
+		padding:50px;
+	}
+	Skills-left-col{
+		flex-basis:100%;
+	}
+	Skills-right-col{
+		flex-basis:100%;
+	}
+	.progress-div{
+		width:100%;
+		margin:auto;
+		padding-top:100px;
+	}
+	progress{
+		width:80%;
+	}
+	.progress-div p{
+		margin-bottom:100px;
+		font-size:20px;
+		padding-left:40px;
+		text-align:justify;
+	}
+	
 }
 
 	 
