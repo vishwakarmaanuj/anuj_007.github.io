@@ -259,6 +259,9 @@ margin:auto;
 		width:100%;
 		padding:50px;
 	}
+	.about-right-col{
+		flex-basis:100%;
+	}
 	Skills-left-col{
 		flex-basis:100%;
 	}
