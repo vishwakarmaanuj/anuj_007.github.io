@@ -252,6 +252,11 @@ margin:auto;
 	.text{
 		margin-left:50px;
 	}
+	.text p{
+		padding:20px;
+	}
+	.button{
+		padding:20px;}
 	.about-left-col{
 		flex-basis:100%;
 	}
