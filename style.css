@@ -253,7 +253,10 @@ margin:auto;
 		margin-left:50px;
 	}
 	.text h1{
-		padding:20px;
+		padding:30px;
+	}
+	.text p{
+		padding:30px;
 	}
 	.button{
 		padding:20px;}
