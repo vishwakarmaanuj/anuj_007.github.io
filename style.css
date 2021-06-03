@@ -75,7 +75,7 @@
 	 margin-top:10px;
  }
  #about{
-	 padding:100px,50px;
+	 padding:100px 50px;
  }
  .section-info{
 	 font-weight:bold;
@@ -196,7 +196,7 @@ margin:auto;
 		
 }
 .Services-box img{
-	width:60% 
+	width:60%; 
 }
 #contact{
 	padding:100px 50px;
