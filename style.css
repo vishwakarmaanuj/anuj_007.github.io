@@ -241,7 +241,9 @@ margin:auto;
 @media only screen and(max-width:770px){
 	header{
 		background:red;
-	background-size:cover;
+	background-size:50%;
+		width:50%;
+		height:50%;
 	}
 	.menu a{
 		display:none;
