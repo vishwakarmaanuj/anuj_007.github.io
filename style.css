@@ -183,7 +183,7 @@ margin:auto;
     flex-wrap:wrap;
 }
 .Services-box{
-	flex-basis:25%;
+	flex-basis:30%;
 	text-align:center;
 	box-shadow:2px 3px 5px grey;
 	padding:20px;
@@ -196,7 +196,7 @@ margin:auto;
 		
 }
 .Services-box img{
-	width:60%; 
+	width:80%; 
 }
 #contact{
 	padding:100px 50px;
@@ -253,13 +253,13 @@ margin:auto;
 		margin-left:50px;
 	}
 	.text h1{
-		padding:30px;
+		padding:40px;
 	}
 	.text p{
-		padding:30px;
+		padding:40px;
 	}
 	.button{
-		padding:20px;}
+		padding:40px;}
 	.about-left-col{
 		flex-basis:100%;
 	}
